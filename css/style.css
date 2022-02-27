@@ -1,0 +1,27 @@
+body{
+    font: 20px, Arial;
+}
+
+
+.navbar {
+    background-color: green;
+}
+
+.home {
+    background-color: rgb(103, 81, 202);
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.link {
+    background-color: rgb(202, 202, 228);
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
